@@ -46,7 +46,7 @@ namespace DS2_Projekt
             if (Connection.State == ConnectionState.Open)
                 return true;
 
-            var connStr = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=dbsys.cs.vsb.cz)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=oracle)));User Id=CRO0009;Password=rU6563SZM6S38jFa;Connection Timeout=45;";
+            var connStr = "Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=dbsys.cs.vsb.cz)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=oracle)));User Id=nikdo;Password=nictuneni;Connection Timeout=45;";
 
             return Connect(connStr);
         }
