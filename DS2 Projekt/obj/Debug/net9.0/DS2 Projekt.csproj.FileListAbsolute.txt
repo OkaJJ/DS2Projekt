@@ -1,0 +1,32 @@
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/DS2 Projekt
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/DS2 Projekt.dll.config
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/DS2 Projekt.deps.json
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/DS2 Projekt.runtimeconfig.json
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/DS2 Projekt.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/DS2 Projekt.pdb
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/Oracle.ManagedDataAccess.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/System.Diagnostics.EventLog.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/System.Diagnostics.PerformanceCounter.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/System.DirectoryServices.Protocols.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/System.Security.Cryptography.Pkcs.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.PerformanceCounter.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/linux/lib/net8.0/System.DirectoryServices.Protocols.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/osx/lib/net8.0/System.DirectoryServices.Protocols.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.DirectoryServices.Protocols.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.csproj.AssemblyReference.cache
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.AssemblyInfoInputs.cache
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.AssemblyInfo.cs
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.csproj.CoreCompileInputs.cache
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Proj.D2047862.Up2Date
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/refint/DS2 Projekt.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.pdb
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/DS2 Projekt.genruntimeconfig.cache
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/obj/Debug/net9.0/ref/DS2 Projekt.dll
+/Users/matyascron/Desktop/DS2/DS2 Projekt/DS2 Projekt/bin/Debug/net9.0/Dapper.dll
